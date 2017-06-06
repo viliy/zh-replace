@@ -1,0 +1,20 @@
+{
+    "name": "viliy/zh-replace",
+    "license": "MIT",
+    "description": "",
+    "authors": [
+        {
+            "name": "viliy",
+            "email": "qiuxiaoweioo@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6",
+        "phpunit/phpunit": "^5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "viliy\\zh-replace\\": "src/"
+        }
+    }
+}
