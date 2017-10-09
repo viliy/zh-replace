@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "viliy\\zh-replace\\": "src/"
+            "viliy\\ZhReplace\\": "src/"
         }
     }
 }
